@@ -1,0 +1,49 @@
+.pagelayout-login #page {
+  background-color: #fcf7ee!important;
+  background-image: none !important;
+}
+
+#page-login-index .login-container .loginform {
+  box-shadow: 0 .5rem 1rem rgba(227, 97, 19, 0.19) !important;
+}
+
+#page, #page.drawers {
+  background-color:#fcf7ee!important;
+}
+
+#page.drawers .main-inner {
+  border-radius:12px!important;
+  box-shadow: 0rem .5rem 1rem rgba(227, 97, 19, 0.19) !important;
+}
+
+.mr-1, .mx-1 {
+  margin-right: 0.40rem!important;
+}
+
+.btn-outline-secondary:hover {
+  background-color: #f79311;
+}
+
+.drawer.drawer-left.show {
+  background-color: white !important;
+}
+
+.drawercontent {
+  background-color: white !important;
+}
+
+.drawerheader {
+  background-color: white !important;
+}
+
+/* Footer */
+#page-footer {
+  background-color: white;
+  color: black;
+}
+.col-md-4 {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+  max-width: initial;
+}
